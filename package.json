@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AmritanshRaizada/React.Dev/issues"
   },
-  "homepage": "https://github.com/AmritanshRaizada/React.Dev#readme"
+  "homepage": "https://github.com/AmritanshRaizada/React.Dev#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
 }
