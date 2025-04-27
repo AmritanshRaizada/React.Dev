@@ -1,0 +1,23 @@
+{
+  "name": "react-codes",
+  "version": "1.0.0",
+  "description": "Code Files React ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmritanshRaizada/React.Dev.git"
+  },
+  "keywords": [
+    "Amritansh",
+    "React"
+  ],
+  "author": "Amritansh Raizada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmritanshRaizada/React.Dev/issues"
+  },
+  "homepage": "https://github.com/AmritanshRaizada/React.Dev#readme"
+}
