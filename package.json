@@ -1,7 +1,7 @@
 {
   "name": "react-codes",
   "version": "1.0.0",
-  "description": "Code Files React ",
+  "description": "Code Files React",
   "main": "App.js",
   "scripts": {
     "test": "jest"
@@ -12,7 +12,12 @@
   },
   "keywords": [
     "Amritansh",
-    "React"
+    "React",
+    "AmritanshRaizada",
+    "React.Dev",
+    "React Codes",
+    "React Codes by Amritansh",
+    "React Codes by Amritansh Raizada"
   ],
   "author": "Amritansh Raizada",
   "license": "ISC",
