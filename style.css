@@ -1,11 +1,11 @@
-#heading{
+#parent{
     color: red;
+    padding-block: 20vh;
+    padding-inline: 16vw;
+    background-color: black;
+    font-family: 'poppins', sans-serif;
 }
 *{
     margin: 0;
-    padding-block: 3vh;
-    padding-inline: 6vw;
-    box-sizing: border-box;
     background-color: black;
-    font-family: 'poppins', sans-serif;
 }

@@ -1,13 +1,13 @@
-#heading {
+#parent {
   color: red;
+  background-color: #000;
+  padding-block: 20vh;
+  padding-inline: 16vw;
+  font-family: poppins, sans-serif;
 }
 
 * {
-  box-sizing: border-box;
   background-color: #000;
   margin: 0;
-  padding-block: 3vh;
-  padding-inline: 6vw;
-  font-family: poppins, sans-serif;
 }
 /*# sourceMappingURL=React Codes.3a01df49.css.map */
