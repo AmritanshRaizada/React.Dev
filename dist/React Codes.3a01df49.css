@@ -6,7 +6,8 @@
   box-sizing: border-box;
   background-color: #000;
   margin: 0;
-  padding: 0;
+  padding-block: 3vh;
+  padding-inline: 6vw;
   font-family: poppins, sans-serif;
 }
 /*# sourceMappingURL=React Codes.3a01df49.css.map */

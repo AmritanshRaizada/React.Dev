@@ -3,7 +3,8 @@
 }
 *{
     margin: 0;
-    padding: 0;
+    padding-block: 3vh;
+    padding-inline: 6vw;
     box-sizing: border-box;
     background-color: black;
     font-family: 'poppins', sans-serif;
