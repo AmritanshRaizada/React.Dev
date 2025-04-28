@@ -1,18 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-const parent = React.createElement('div', { id: 'parent' }, [
-  React.createElement('div', { id: 'child', key: 'child1' }, [ // 👈 key added
-    React.createElement('h1', { id: 'heading', key: 'h1-1' }, 'Hello World'), // 👈 key added
-    React.createElement('h2', { id: 'heading', key: 'h2-1' }, 'Hello World')  // 👈 key added
-  ]),
-  React.createElement('div', { id: 'child', key: 'child2' }, [ // 👈 key added
-    React.createElement('h1', { id: 'heading', key: 'h1-2' }, 'Hello World'), // 👈 key added
-    React.createElement('h2', { id: 'heading', key: 'h2-2' }, 'Hello World')  // 👈 key added
-  ])
-]);
 
-console.log(parent);
+//JSX Syntax 
+// JSX is a syntax extension for JavaScript that looks similar to XML or HTML. It allows you to write HTML-like code within JavaScript, making it easier to create a nd manage UI components in React.
 
+const heading =  <h1 id="heading" className="heading">Hello World!</h1>;
+
+//babel transpiles the JSX code into JavaScript code that React can understand. The above JSX code will be transpiled to the following JavaScript code:
+
+console.log(heading);
+// The above code will 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(parent);
+
+root.render(heading);
